@@ -7,7 +7,7 @@ This is an ncurser test to be able to use that library. We had to install on WSL
 ### Files
 
 |   #   | File             | Description                                        |
-| :---: | ---------------  | -------------------------------------------------- |
+| :---: | ---------------  | -------------------------------------S------------- |
 |   1   | hello_ncurses.cpp| Main driver of my program.                         |
 
 ### Instructions
