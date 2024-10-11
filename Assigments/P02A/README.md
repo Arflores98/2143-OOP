@@ -8,7 +8,8 @@ This is an ncurser test to be able to use that library. We had to install on WSL
 
 |   #   | File             | Description                                        |
 | :---: | ---------------  | -------------------------------------------------- |
-|   1   | hello_ncurses.cpp| Main driver of my program.                         |
+|   1   | hello_ncurses.cpp [./]| Main driver of my program.                         |
+|   2   | Screenshot [./hello-world sc.png]      | Screenshot of the printed "hello World" in terminal|
 
 ### Instructions
 
