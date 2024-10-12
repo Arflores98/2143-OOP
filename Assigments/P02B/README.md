@@ -36,6 +36,7 @@ This assignment involves designing a set of classes for a digital version of the
   - `update_score()` : Update the player's score after each roll
     
   -Relationships: Each player has a set of dice and participates in the game.
+  
   -A Player HAS-A Dice (composition)
     
   -A Player IS-A participant in the game (inheritance)
@@ -75,21 +76,33 @@ This assignment involves designing a set of classes for a digital version of the
 
 ## Necessary:
 -coins
+
 -first name
+
 -last name
+
 -score
+
 -winner
+
 -player stats
+
 -user id
 
 ## Possible:
 -messaging
+
 -high score
+
 -leader board
 
 ## Wishful:
 -chat
+
 -levels
+
 -streak
+
 -teams
+
 -team stats
