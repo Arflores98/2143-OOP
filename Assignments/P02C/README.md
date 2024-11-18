@@ -14,7 +14,7 @@ This program digitally recreates the game "Knucklebones," featuring an interface
 |   4   | [dice_class.hpp](./hello_ncurses.cpp)   | Creates a rectangular dice                         |
 |   5   | [grid_class.hpp](./hello_ncurses.cpp)   | Dice number value is placed here                   |
 |   6   | [logger_class.hpp](./hello_ncurses.cpp)      | Helper class that assists with logging events of the game. |
-|   7   | [input_class.hpp](./hello_ncurses.cpp)      | Helper class that assists with logging events of the game. |
+|   7   | [input_class.hpp](./hello_ncurses.cpp)      | Display the welcome message on the main screen. |
 
 ### Instructions
 
