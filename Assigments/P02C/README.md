@@ -10,10 +10,10 @@ This program digitally recreates the game "Knucklebones," featuring an interface
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [main.cpp](./hello_ncurses.cpp)        | Main driver of my project that launches game and overal flow. |
 |   2   | [buttonClass.hpp](./hello_ncurses.cpp) | Adds button to the game in order to interact with it.      |
-|   3   | colors.hpp      | Color customizes the game interface.               |
-|   4   | diceClass.hpp   | Creates a rectangular dice                         |
-|   5   | gridClass.hpp   | Dice number value is placed here                   |
-|   6   | logger.hpp      | Helper class that assists with logging events of the game. |
+|   3   | [colors.hpp](./hello_ncurses.cpp)      | Color customizes the game interface.               |
+|   4   | [diceClass.hpp](./hello_ncurses.cpp)   | Creates a rectangular dice                         |
+|   5   | [gridClass.hpp](./hello_ncurses.cpp)   | Dice number value is placed here                   |
+|   6   | [logger.hpp](./hello_ncurses.cpp)      | Helper class that assists with logging events of the game. |
 
 ### Instructions
 
