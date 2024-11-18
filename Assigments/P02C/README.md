@@ -8,7 +8,7 @@ This program digitally recreates the game "Knucklebones," featuring an interface
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | main.cpp        | Main driver of my project that launches game and overal flow. |
+|   1   | [main.cpp](./hello_ncurses.cpp)        | Main driver of my project that launches game and overal flow. |
 |   2   | buttonClass.hpp | Adds button to the game in order to interact with it.      |
 |   3   | colors.hpp      | Color customizes the game interface.               |
 |   4   | diceClass.hpp   | Creates a rectangular dice                         |
