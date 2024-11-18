@@ -53,7 +53,7 @@ int main() {
 
     string text = "ROLL";
 
-    size = text.size() + 2;
+    size = strlen(text.c_str()) + 2;
 
     Logger::log("vals", vector<int>({size, 3, (rows / 2), ((cols - size) / 2)}));
 
