@@ -1,7 +1,8 @@
 #pragma once
 
 #include <ncurses.h>
-#include "logger.hpp"
+
+#include "logger_class.hpp"
 #include <ctime>
 #include <string>
 
@@ -34,11 +35,6 @@ class Grid {
 
    public:
     Grid(int y = 0, int x = 0) : start_y(y), start_x(x) {
-        Logger::log("yx", vector<string>{to_string(y), to_string(x)});
-        init();
-    }
-
-    Grid(int y = 0, int x = 0, int b=1, int n=2) : start_y(y), start_x(x),border_color(b),number_color(n) {
         Logger::log("yx", vector<string>{to_string(y), to_string(x)});
         init();
     }

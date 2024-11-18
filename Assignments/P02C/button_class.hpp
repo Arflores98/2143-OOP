@@ -56,7 +56,7 @@ class Button {
 
     bool clicked(int y, int x) {
         if (y >= frame.y && y < frame.y + frame.h && x >= frame.x && x < frame.x + frame.w) {
-            toggle();
+            is_clicked = !is_clicked;
             return true;
         }
         return false;
