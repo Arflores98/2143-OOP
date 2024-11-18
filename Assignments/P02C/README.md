@@ -31,3 +31,9 @@ This program digitally recreates the game "Knucklebones," featuring an interface
 cannot open source file "stddef.h" (dependency of "buttonClass.hpp"). Please run the 'Select IntelliSense Configuration...' command to locate your system headers.
 
 cannot open source file "stddef.h" (dependency of "diceClass.hpp"). Please run the 'Select IntelliSense Configuration...' command to locate your system headers.
+
+### Next Step
+
+Problem from challenges encountered resolved. I don't know how, but we got it working.
+
+Used ncursesw in oder for the virtual dice to work.
